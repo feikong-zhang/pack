@@ -1,2 +1,2 @@
 # pack
-pack for 
+pack for devices commision
